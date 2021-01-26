@@ -1,0 +1,16 @@
+Source: dde-daemon
+Section: admin
+Priority: optional
+Maintainer: groveer <groveer@outlook.com>
+Build-Depends:
+ debhelper-compat (= 11),
+Standards-Version: 3.9.8
+
+Package: dde-daemon
+Architecture: any
+Depends: 
+Conflicts:
+Replaces:
+Description: A virtual package
+ This package is run in live system.
+
